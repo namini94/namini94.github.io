@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohammad Lotfollahi</title>
+    <link>https://m0hammadl.github.io/author/mohammad-lotfollahi/</link>
+      <atom:link href="https://m0hammadl.github.io/author/mohammad-lotfollahi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mohammad Lotfollahi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m0hammadl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Mohammad Lotfollahi</title>
+      <link>https://m0hammadl.github.io/author/mohammad-lotfollahi/</link>
+    </image>
+    
+    <item>
+      <title>Compositional Perturbation Autoencoders (CPA) in colab with FACEBOOK AI</title>
+      <link>https://m0hammadl.github.io/post/cpa-is-out-in-colab-facebook-ai/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/post/cpa-is-out-in-colab-facebook-ai/</guid>
+      <description>&lt;p&gt;I am excited to announce my preprint titled &lt;strong&gt;Compositional perturbation autoencoder for single-cell response modeling&lt;/strong&gt;
+is not out! This is the work from my time at FACEBOOK AI.&lt;/p&gt;
+&lt;p&gt;The preprint is available on 
+&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.04.14.439903v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;biorxiv&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here is the blog postsfrom 
+&lt;a href=&#34;https://ai.facebook.com/blog/ai-predicts-effective-drug-combinations-to-fight-complex-diseases-faster&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FACEBOOK AI&lt;/a&gt; explaining the method.
+The code can also be found in 
+&lt;a href=&#34;https://github.com/facebookresearch/CPA?fbclid=IwAR2g1C6lt547qKdiiAMQC-A2RQfgiaR-8V8bHSKmAWk48WyxyE0R5lf9N0A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I will give a talk at ECCB 2020</title>
+      <link>https://m0hammadl.github.io/post/eccb/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/post/eccb/</guid>
+      <description>&lt;p&gt;I am happy to announce our paper titled 
+&lt;a href=&#34;https://github.com/theislab/trVAE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CONDITIONAL OUT-OF-DISTRIBUTION GENERATION FOR UN-PAIRED DATA USING TRVAE&lt;/strong&gt;&lt;/a&gt; is accepted
+as a highlight talk at 
+&lt;a href=&#34;https://eccb2020.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EECB 2020&lt;/a&gt; (accept rate 20.19%). The paper will also be
+published as a journal article in 
+&lt;a href=&#34;https://academic.oup.com/bioinformatics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioinfomatics&lt;/a&gt;. My talk will be on Tuesday, September 8, 2020.
+Looking forward to meet everyone :).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper accepted as spotlight talk at ICML-CompBio-2020!</title>
+      <link>https://m0hammadl.github.io/post/icml/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/post/icml/</guid>
+      <description>&lt;p&gt;This week was full of good newses for us! Our paper titled  &amp;ldquo;Out-of-distribution prediction with disentangled representations for single-cell RNA sequencing data&amp;rdquo;
+has been accepted as spotlight talk at 
+&lt;a href=&#34;https://icml-compbio.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ICML-CompBio-2020&lt;/em&gt;&lt;/a&gt;. The paper is available 
+&lt;a href=&#34;https://icml-compbio.github.io/2020/papers/WCBICML2020_paper_41.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.
+The slides are also available via 
+&lt;a href=&#34;https://slideslive.com/38931310/outofdistribution-prediction-with-disentangled-representations-for-scrnaseq-data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slideslive&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
