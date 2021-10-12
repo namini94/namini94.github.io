@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trVAE | Mohammad Lotfollahi</title>
+    <link>https://m0hammadl.github.io/tag/trvae/</link>
+      <atom:link href="https://m0hammadl.github.io/tag/trvae/index.xml" rel="self" type="application/rss+xml" />
+    <description>trVAE</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m0hammadl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>trVAE</title>
+      <link>https://m0hammadl.github.io/tag/trvae/</link>
+    </image>
+    
+    <item>
+      <title>I will give a talk at ECCB 2020</title>
+      <link>https://m0hammadl.github.io/post/eccb/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/post/eccb/</guid>
+      <description>&lt;p&gt;I am happy to announce our paper titled 
+&lt;a href=&#34;https://github.com/theislab/trVAE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CONDITIONAL OUT-OF-DISTRIBUTION GENERATION FOR UN-PAIRED DATA USING TRVAE&lt;/strong&gt;&lt;/a&gt; is accepted
+as a highlight talk at 
+&lt;a href=&#34;https://eccb2020.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EECB 2020&lt;/a&gt; (accept rate 20.19%). The paper will also be
+published as a journal article in 
+&lt;a href=&#34;https://academic.oup.com/bioinformatics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioinfomatics&lt;/a&gt;. My talk will be on Tuesday, September 8, 2020.
+Looking forward to meet everyone :).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

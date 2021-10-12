@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Mohammad Lotfollahi</title>
+    <link>https://m0hammadl.github.io/publication-type/2/</link>
+      <atom:link href="https://m0hammadl.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m0hammadl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://m0hammadl.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Conditional out-of-sample generation for unpaired data using trVAE</title>
+      <link>https://m0hammadl.github.io/publication/trvae/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/publication/trvae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scGen predicts single-cell perturbation responses </title>
+      <link>https://m0hammadl.github.io/publication/scgen/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/publication/scgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep packet: a novel approach for encrypted traffic classification using deep learning </title>
+      <link>https://m0hammadl.github.io/publication/deep_packet/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/publication/deep_packet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

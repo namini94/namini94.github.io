@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Mohammad Lotfollahi</title>
+    <link>https://m0hammadl.github.io/publication-type/3/</link>
+      <atom:link href="https://m0hammadl.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m0hammadl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>https://m0hammadl.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Compositional perturbation autoencoder for single-cell response modeling </title>
+      <link>https://m0hammadl.github.io/publication/cpa/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/publication/cpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Query to reference single-cell integration with transfer learning</title>
+      <link>https://m0hammadl.github.io/publication/scarches/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/publication/scarches/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

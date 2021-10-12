@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>talk | Mohammad Lotfollahi</title>
+    <link>https://m0hammadl.github.io/tag/talk/</link>
+      <atom:link href="https://m0hammadl.github.io/tag/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>talk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m0hammadl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>talk</title>
+      <link>https://m0hammadl.github.io/tag/talk/</link>
+    </image>
+    
+    <item>
+      <title>I will give a talk at ECCB 2020</title>
+      <link>https://m0hammadl.github.io/post/eccb/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/post/eccb/</guid>
+      <description>&lt;p&gt;I am happy to announce our paper titled 
+&lt;a href=&#34;https://github.com/theislab/trVAE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CONDITIONAL OUT-OF-DISTRIBUTION GENERATION FOR UN-PAIRED DATA USING TRVAE&lt;/strong&gt;&lt;/a&gt; is accepted
+as a highlight talk at 
+&lt;a href=&#34;https://eccb2020.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EECB 2020&lt;/a&gt; (accept rate 20.19%). The paper will also be
+published as a journal article in 
+&lt;a href=&#34;https://academic.oup.com/bioinformatics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioinfomatics&lt;/a&gt;. My talk will be on Tuesday, September 8, 2020.
+Looking forward to meet everyone :).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper accepted as spotlight talk at ICML-CompBio-2020!</title>
+      <link>https://m0hammadl.github.io/post/icml/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://m0hammadl.github.io/post/icml/</guid>
+      <description>&lt;p&gt;This week was full of good newses for us! Our paper titled  &amp;ldquo;Out-of-distribution prediction with disentangled representations for single-cell RNA sequencing data&amp;rdquo;
+has been accepted as spotlight talk at 
+&lt;a href=&#34;https://icml-compbio.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ICML-CompBio-2020&lt;/em&gt;&lt;/a&gt;. The paper is available 
+&lt;a href=&#34;https://icml-compbio.github.io/2020/papers/WCBICML2020_paper_41.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.
+The slides are also available via 
+&lt;a href=&#34;https://slideslive.com/38931310/outofdistribution-prediction-with-disentangled-representations-for-scrnaseq-data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slideslive&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
